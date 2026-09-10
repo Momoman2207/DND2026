@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: momoman2207.github.io/dnd2026
+  baseUrl: momoman2207.github.io/DND2026
   ignorePatterns:
     - private
     - templates
