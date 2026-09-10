@@ -1,0 +1,3 @@
+The Whitefall Mountains are the largest mountain range in [[Adrios]], spanning the center of the continent, nearly from head to toe. The mountains are ancient and tall, with many peaks rising over 25,000 feet above sea level, with the crown jewel being Mt. Valtan, a colossal mountain reaching 35,000 feet above sea level, said to be specifically created by [[The All-Father]] as the highest point in the world.
+
+Below these treacherous mountains is [[Oberon]], the Capitol of the world of [[Dwarves]]. The city spans the entire length of the range, 400 miles across, centered on Mt. Valtan, roughly center within the mountain range, all the way off to the east side of the range.

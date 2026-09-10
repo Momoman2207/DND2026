@@ -1,0 +1,3 @@
+The [[Dwarves]] that Live in [[Oberon]] Abide by a strict hierarchy of status within political organizations, with the leader of each clan getting a seat on the Council. This Council is the sole governing body of [[Oberon]], deciding everything from petty disputes between members of [[The Enclave]] to foreign trade. These 6 Dwarves collectively hold a amount of wealth, influence, and power collectively unrivaled.
+
+Voting on the council is held bi-monthly and is done in secret in the fabled council chamber, the only room in all of [[Oberon]] where it's inhabitants can see the sun.

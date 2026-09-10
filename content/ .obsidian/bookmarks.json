@@ -1,0 +1,30 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1783566409002,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1784920161200,
+          "items": [],
+          "title": "Species"
+        },
+        {
+          "type": "group",
+          "ctime": 1783566409002,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1783566409002,
+              "path": "Geography/Adrios.md",
+              "subpath": "#^-"
+            }
+          ],
+          "title": "\\\\Geography"
+        }
+      ],
+      "title": "sortspec"
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+Adrios is the continent our story takes place on. It is one of 6 on the world stage, but outside of minor trade, the continent as a whole is rather isolationist. Magic users seem to only pop up on Adrios, which is incredibly taboo, an as such, many people take business elsewhere. The Continent is [[The All-Father]]'s favorite continent, and is the one where he shares his most gifts, but many mortals don't see it that way.
+
+The continent is semi-circular, with the Whitefall mountains taking center stage of the continent. To the north and creeping into the east exists the [[Treeydar Forrest]], And to the east and stretching around south are [[The Great Plains]].

@@ -1,0 +1,3 @@
+The Enclave is an order comprised of all of the high class of dwarves not a part of other organizations with a seat at [[The Council]]. They consist of military generals, merchants, nobles, and other such professions. Dominant family houses within the Enclave often have long extending rivalries.
+
+The Grand Judge, Huron Drest, is a spry young member of [[The Council]], and is expected to  at such a young age be the spokesperson for [[The Council]], sparking resentment from his fellow council members. Huron is the most wealthy dwarf to ever live.
