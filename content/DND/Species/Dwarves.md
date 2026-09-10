@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Dwarves are an old species. They were in [[Adrios]] before [[Elves]], before [[Humans]], and before [[Orcs]]. Legend says they were formed out of the stone of the [[Whitefall Mountains]] by [[The All-Father]] himself at the time of the world's creation, and since inception, they have been digging holes. The cave system under the [[Whitefall Mountains]] is so large that a dwarf could explore for an entire lifetime and never see 85% of the caverns. Though Dwarves don't only live under the [[Whitefall Mountains]], some live under other mountains and hills around the continent, most of them stayed in their ancenteral home and founded [[Oberon]].
 
 Dwarves as a species, more than anything else, love to mine the earth. They love digging deeper and deeper, striving to dig as deep as they can in order to find precious minerals such as gold, silver, bauxite, coal, alongside other various valuable ores, minerals, and gems. 

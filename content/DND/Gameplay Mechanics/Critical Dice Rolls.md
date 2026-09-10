@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Sometimes when rolling a D20, you roll a 1 or a 20. These values are considered to be Critical Hits and Critical failures.
 
 **Critical Hits**

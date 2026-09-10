@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 [[The All-Father]] is worshiped as a near unlimited number of gods, however the most common gods worshiped in the place of [[The All-Father]] are the many gods that make up the Greek Pantheon. These include:
 
 **Male Gods**

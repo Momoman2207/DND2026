@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 **The All-Father**
 The All-Father is a capital G God. He is the one being that created the universe and is the one that keeps it running. Though he does not often step into the dealings of mortals directly, he gives magical abilities to many people in [[Adrios]] and beyond. He has intervened in the past, but it is very rare that he does. The All-Father is seen by the people of [[Adrios]] as benevolent and kind, and attracts much worship.
 

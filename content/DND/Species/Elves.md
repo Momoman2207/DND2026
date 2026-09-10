@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Two main species of elves exist on [[Adrios]]: High Elves and Dark Elves. These species of Elves very rarely interact with each other, and don't know other species exist.
 
 **High Elves**

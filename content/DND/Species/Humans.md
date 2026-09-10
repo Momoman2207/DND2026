@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 They are humans, you get the Idea. They really like capitalism and have ended up in a socioeconomic model very similar to early industrial revolution era Europe, but with airships instead of trains.
 
 Most Humans live in large populations spread out throughout [[Adrios]], but some choose to live in isolation in the woods or in smaller towns on the ocean. Humans tend to go very unnoticed in the way they intersperse very different cultures together, as humans from every corner of [[Adrios]] come together for trade.

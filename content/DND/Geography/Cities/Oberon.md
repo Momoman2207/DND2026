@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Oberon is the largest "City" in the world, spanning 650 miles across from east to the west coast of the southern coast of [[Adrios]]. It comprises 14 million [[Dwarves]] and 3 million [[Gnomes]], making it the largest in both numbers and size. Oberon is not a normal city, but instead a collection of 273 individual cities, called districts, dotted around the [[Whitefall Mountains]].
 
 Oberon is also the greatest producer of materials in weight and quality on [[Adrios]], producing Gold, Silver, Coal, Bauxite, gemstones, and many other rare metals and gemstones.
